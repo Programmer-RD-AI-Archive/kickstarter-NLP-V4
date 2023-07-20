@@ -218,7 +218,7 @@ pydeck==0.6.2
 pydeprecate==0.3.1
 pydot==1.4.2
 pygeoip==0.3.2
-pygments==2.10.0
+pygments==2.15.0
 pyjsparser==2.7.1
 pyjwt==1.7.1
 pymongo==3.12.0
